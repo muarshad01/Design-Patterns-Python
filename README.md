@@ -26,9 +26,9 @@ $ brew install python3
 
 Make sure that python has been installed by following these steps:
 
-* `python3 --version`
-* `pip3 --version`
-* `which python3`
+* `$ python3 --version`
+* `$ pip3 --version`
+* `$ which python3`
 
 Open a terminal application and type `pip3`. You will be able to see the help information from `pip3` only if the python installation is successful.
 
