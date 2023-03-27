@@ -19,8 +19,12 @@ $ brew install python3
 ```
 
 Make sure that python has been installed by following these steps:
+
 * `python3 --version`
-* Open a terminal application and type `pip3`. You will be able to see the help information from `pip3` only if the python installation is successful.
+* `pip3 --version`
+* `which python3`
+
+Open a terminal application and type `pip3`. You will be able to see the help information from `pip3` only if the python installation is successful.
 
 ***
 
@@ -32,3 +36,7 @@ Make sure that python has been installed by following these steps:
 ### Which Python Interpreter to Use
 
 * Command + shift + P: >interpreter; Python: Select Interpreter
+
+***
+
+* [Top 10 VSCode Extensions for More Productive Python Development](https://bas.codes/posts/best-vscode-extensions-python)
