@@ -50,5 +50,6 @@ Open a terminal application and type `pip3`. You will be able to see the help in
 
 ```
 $ pip install pylint
+
 $ pyreverse -o png <path_to_src>
 ```
