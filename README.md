@@ -24,11 +24,11 @@ Make sure that python has been installed by following these steps:
 
 ***
 
-## Add Extension
+## Add VSCode Extensions
 
 * Python: IntelliSense (Pylance), Linting, Debugging   ...
 * Pylance: A performant, feature-rich language ...
 
-## Which Python Interpreter to Use
+### Which Python Interpreter to Use
 
-Command + shift + P: >interpreter; Python: Select Interpreter
+* Command + shift + P: >interpreter; Python: Select Interpreter
