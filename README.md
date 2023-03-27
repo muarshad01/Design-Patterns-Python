@@ -33,10 +33,6 @@ Open a terminal application and type `pip3`. You will be able to see the help in
 * Python: IntelliSense (Pylance), Linting, Debugging   ...
 * Pylance: A performant, feature-rich language ...
 
-### Which Python Interpreter to Use
-
-* Command + shift + P: >interpreter; Python: Select Interpreter
-
 ***
 
 * [Top 10 VSCode Extensions for More Productive Python Development](https://bas.codes/posts/best-vscode-extensions-python)
