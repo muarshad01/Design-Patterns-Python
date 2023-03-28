@@ -8,3 +8,7 @@ and the `__next__ ()` method in the iterator.
 * [typing.Any, typing.List](https://docs.python.org/3/search.html?q=typing)
 
 * [__future__](https://docs.python.org/3/library/__future__.html?highlight=__future_#module-__future__)
+
+***
+
+![Code UML](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Iterator/image/Iterator.png)
