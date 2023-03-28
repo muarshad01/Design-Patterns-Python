@@ -20,4 +20,4 @@ The underscore prefix is meant as a hint to another programmer that a variable o
 
 ## UML
 
-![Code UML](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator/image)
+![Code UML](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Iterator/image/Iterator.png)
