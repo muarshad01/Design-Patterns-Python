@@ -4,9 +4,13 @@
 
 ***
 
+## Creational Patterns
+
+* [Singleton]()
+
 ## Behavioral Design Patterns
 
-[Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
+* [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
 
 ***
 
