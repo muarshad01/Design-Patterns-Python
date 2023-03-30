@@ -6,7 +6,7 @@
 
 ## Creational Patterns
 
-* [Singleton]()
+* [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
 ## Behavioral Design Patterns
 
