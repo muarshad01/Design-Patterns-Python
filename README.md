@@ -1,10 +1,16 @@
-## Design Patterns
+# Design Patterns
 
 [Python Design Patterns](https://refactoring.guru/design-patterns/python)
 
 ***
 
-## Creational Patterns
+## Structural Design Patterns
+
+* [Proxy](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
+
+***
+
+## Creational Design Patterns
 
 * [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
