@@ -12,6 +12,8 @@
 
 * [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge)
 
+* [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite)
+
 ***
 
 ## Creational Design Patterns
