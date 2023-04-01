@@ -10,6 +10,8 @@
 
 * [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter)
 
+* [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge)
+
 ***
 
 ## Creational Design Patterns
