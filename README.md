@@ -45,6 +45,8 @@
 
 * [Template](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Template)
 
+* [Flyweight](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Flyweight)
+
 ***
 
 ## Install Python
