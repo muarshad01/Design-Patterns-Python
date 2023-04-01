@@ -18,7 +18,7 @@
 
 * [Facade](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Facade)
 
-)
+* [Flyweight](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Flyweight)
 
 ***
 
