@@ -14,6 +14,8 @@
 
 * [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
+* [Factory]  (https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Factory)
+
 ## Behavioral Design Patterns
 
 * [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
