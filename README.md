@@ -21,17 +21,17 @@
 * [Proxy](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
 ***
 
-## Creational Design Patterns
-
-* [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
-
-* [Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Factory)
+## Creational Design Patterns (ABFPS)
 
 * [Abstract Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Abstract_Factory)
 
 * [Builder](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
 
+* [Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Factory)
+
 * [Prototype](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
+
+* [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
 ## Behavioral Design Patterns
 
