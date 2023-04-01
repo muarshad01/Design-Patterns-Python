@@ -20,6 +20,8 @@
 
 * [Builder](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
 
+* [Prototype](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
+
 ## Behavioral Design Patterns
 
 * [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
