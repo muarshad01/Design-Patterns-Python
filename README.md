@@ -4,9 +4,7 @@
 
 ***
 
-## Structural Design Patterns
-
-* [Proxy](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
+## Structural Design Patterns (ABCDF2P)
 
 * [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter)
 
@@ -20,6 +18,7 @@
 
 * [Flyweight](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Flyweight)
 
+* [Proxy](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
 ***
 
 ## Creational Design Patterns
