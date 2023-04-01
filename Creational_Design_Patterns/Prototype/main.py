@@ -8,6 +8,7 @@ class SelfReferencingEntity:
     def set_parent(self, parent):
         self.parent = parent
 
+# ------------------------------------------------------------------
 
 class SomeComponent:
     """
@@ -43,17 +44,7 @@ class SomeComponent:
         return new
 
     def __deepcopy__(self, memo=None):
-        """
-        Create a deep copy. This method will be called whenever someone calls
-        `copy.deepcopy` with this object and the returned value is returned as
-        the new deep copy.
 
-        What is the use of the argument `memo`? Memo is the dictionary that is
-        used by the `deepcopy` library to prevent infinite recursive copies in
-        instances of circular references. Pass it to all the `deepcopy` calls
-        you make in the `__deepcopy__` implementation to prevent infinite
-        recursions.
-        """
         if memo is None:
             memo = {}
 
@@ -70,6 +61,7 @@ class SomeComponent:
 
         return new
 
+# ------------------------------------------------------------------
 
 if __name__ == "__main__":
 
