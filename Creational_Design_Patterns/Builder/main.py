@@ -26,14 +26,10 @@ class Builder(ABC):
     def produce_part_c(self) -> None:
         pass
 
+# ------------------------------------------------------------------------
 
 class ConcreteBuilder1(Builder):
-    """
-    The Concrete Builder classes follow the Builder interface and provide
-    specific implementations of the building steps. Your program may have
-    several variations of Builders, implemented differently.
-    """
-
+    
     def __init__(self) -> None:
         """
         A fresh builder instance should contain a blank product object, which is
@@ -73,17 +69,10 @@ class ConcreteBuilder1(Builder):
     def produce_part_c(self) -> None:
         self._product.add("PartC1")
 
+# ------------------------------------------------------------------------
 
 class Product1():
-    """
-    It makes sense to use the Builder pattern only when your products are quite
-    complex and require extensive configuration.
-
-    Unlike in other creational patterns, different concrete builders can produce
-    unrelated products. In other words, results of various builders may not
-    always follow the same interface.
-    """
-
+    
     def __init__(self) -> None:
         self.parts = []
 
@@ -93,6 +82,7 @@ class Product1():
     def list_parts(self) -> None:
         print(f"Product parts: {', '.join(self.parts)}", end="")
 
+# ------------------------------------------------------------------------
 
 class Director:
     """
@@ -131,6 +121,7 @@ class Director:
         self.builder.produce_part_b()
         self.builder.produce_part_c()
 
+# ------------------------------------------------------------------------
 
 if __name__ == "__main__":
     """
