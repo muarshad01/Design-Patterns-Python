@@ -14,6 +14,8 @@
 
 * [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite)
 
+* [Decorator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Decorator)
+
 ***
 
 ## Creational Design Patterns
