@@ -50,6 +50,8 @@
 
 * [Chain of Responsibility](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/ChainOfResponsibility)
 
+* [Mediator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Mediator)
+
 ***
 
 ## Install Python
