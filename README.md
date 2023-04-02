@@ -56,6 +56,8 @@
 
 * [Strategy](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Strategy)
 
+* [Visitor](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Visitor)
+
 ***
 
 ## Install Python
