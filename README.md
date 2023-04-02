@@ -36,25 +36,25 @@
 
 ***
 
-## Behavioral Design Patterns
-
-* [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
-
-* [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento)
-
-* [State](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/State)
-
-* [Template](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Template)
+## Behavioral Design Patterns (C2-I-M2-O-S2-TV)
 
 * [Command](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/command)
 
 * [Chain of Responsibility](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/ChainOfResponsibility)
+
+* [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
+
+* [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento)
 
 * [Mediator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Mediator)
 
 * [Observer](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Observer)
 
 * [Strategy](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Strategy)
+
+* [State](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/State)
+
+* [Template](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Template)
 
 * [Visitor](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Visitor)
 
