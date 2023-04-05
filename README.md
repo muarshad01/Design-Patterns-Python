@@ -62,29 +62,31 @@
 
 # How to Install Python on MacOS
 
-### Install Homebrew.
+### 1. Install Homebrew.
 
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" # 
 ```
 
-### Upgrade Homebrew
+### 2. Upgrade Homebrew
 
 ```
 $ brew update && brew upgrade
 ```
 
-### Install Python
+### 3. Install Python
 
 ```
 $ brew install python3
 ```
 
-Make sure that python has been installed by following these steps:
+### 4. Check if Python has been installed successfull:
 
-* `$ python3 --version`
-* `$ pip3 --version`
-* `$ which python3`
+```
+$ python3 --version
+$ pip3 --version
+$ which python3
+```
 
 Open a terminal application and type `pip3`. You will be able to see the help information from `pip3` only if the python installation is successful.
 
