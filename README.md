@@ -60,21 +60,21 @@
 
 ***
 
-## Install Python
+# How to Install Python on MacOS
 
-First, install Homebrew.
+### Install Homebrew.
 
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" # 
 ```
 
-Upgrade Homebrew
+### Upgrade Homebrew
 
 ```
 $ brew update && brew upgrade
 ```
 
-Install Python
+### Install Python
 
 ```
 $ brew install python3
