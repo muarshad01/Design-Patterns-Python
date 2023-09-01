@@ -4,7 +4,21 @@
 
 ***
 
-## Structural Design Patterns (ABCDF2P)
+## Creational Design Patterns (AB---FPS)
+
+* [Abstract Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Abstract_Factory)
+  
+* [Builder](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
+  
+* [Factory Method](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Factory)
+  
+* [Prototype](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
+  
+* [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
+
+***
+
+## Structural Design Patterns (ABCD-F2-P)
 
 * [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter)
 
@@ -19,20 +33,6 @@
 * [Flyweight](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Flyweight)
 
 * [Proxy](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Structural_Design_Patterns/Proxy)
-
-***
-
-## Creational Design Patterns (ABFPS)
-
-* [Abstract Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Abstract_Factory)
-
-* [Builder](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Builder)
-
-* [Factory](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Creational_Design_Patterns/Factory)
-
-* [Prototype](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Prototype)
-
-* [Singleton](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Creational_Design_Patterns/Singleton)
 
 ***
 
