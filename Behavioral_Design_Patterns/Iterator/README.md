@@ -1,4 +1,12 @@
+## Intent
+
+Iterator is a behavioral design pattern that lets you `traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.)`.
+
+**
+
 ## Import Packages
+
+
 
 * [collections.abc](https://docs.python.org/3/library/collections.abc.html?highlight=collections%20abc#module-collections.abc)
 
