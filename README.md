@@ -38,9 +38,9 @@
 
 ## Behavioral Design Patterns (C2-I-M2-O-S2-TV)
 
-* [Command](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/command)
-
 * [Chain of Responsibility](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/ChainOfResponsibility)
+
+* [Command](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/command)
 
 * [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
 
