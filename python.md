@@ -1,7 +1,9 @@
 * from __future__ import annotations
 * from abc import ABC, abstractmethod
 * from random import randrange
-* from typing import List
+* from typing import Any, List
+
+* from collections.abc import Iterable, Iterator
 
 ## Import Packages
 
