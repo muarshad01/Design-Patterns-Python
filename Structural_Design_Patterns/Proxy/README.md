@@ -1,6 +1,7 @@
+## Intent
 
-* [Proxy in Python](https://refactoring.guru/design-patterns/proxy/python/example#example-0)
+Proxy is a structural design pattern that lets you `provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object`.
 
-Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client requests, does some work (access control, caching, etc.) and then passes the request to a service object.
+***
 
 ![Code UML](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Proxy/images/classes.png)
