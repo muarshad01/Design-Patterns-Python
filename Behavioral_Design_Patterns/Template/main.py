@@ -17,11 +17,11 @@ class AbstractClass(ABC):
         """
 
         self.base_operation1()
-        self.required_operations1()
         self.base_operation2()
-        self.hook1()
-        self.required_operations2()
         self.base_operation3()
+        self.required_operations1()
+        self.required_operations2()
+        self.hook1()
         self.hook2()
 
     # These operations already have implementations.
