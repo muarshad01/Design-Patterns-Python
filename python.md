@@ -5,9 +5,8 @@
 
 * from [typing](https://docs.python.org/3/library/typing.html?highlight=typing#module-typing) import [Any](https://docs.python.org/3/library/typing.html?highlight=any#typing.Any), [List](https://docs.python.org/3/library/typing.html?highlight=typing%20list#typing.List), [Optional](https://docs.python.org/3/library/typing.html?highlight=typing%20optional#typing.Optional)
 
-* from collections.abc import Iterable, Iterator
+* from [collections.abc](https://docs.python.org/3.13/library/collections.abc.html) import [Iterable](https://docs.python.org/3/library/collections.abc.html?highlight=iterable#collections.abc.Iterable), [Iterator](https://docs.python.org/3/library/collections.abc.html?highlight=iterator#collections.abc.Iterator)
 
-https://docs.python.org/3/library/random.html?highlight=random#module-random
 
 * from datetime import datetime
 * from random import sample
