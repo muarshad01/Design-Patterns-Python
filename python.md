@@ -1,5 +1,5 @@
 * from __future__ import annotations
-* from abc import ABC, abstractmethod
+* from [abc](https://docs.python.org/3.13/library/collections.abc.html) import ABC, abstractmethod
 * from random import randrange
 * from typing import Any, List, Optional
 
