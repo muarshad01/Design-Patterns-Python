@@ -1,3 +1,9 @@
+## Python Documentation
+
+[Python 3.11.5 documentation](https://docs.python.org/3/)
+
+***
+
 ## Different Packages
 
 * from [__future__](https://docs.python.org/3/library/__future__.html?highlight=future#module-__future__) import [annotations]()
