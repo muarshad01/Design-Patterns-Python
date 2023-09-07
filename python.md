@@ -1,4 +1,4 @@
-* from __future__ import annotations
+* from [__future__](https://docs.python.org/3/library/__future__.html?highlight=future#module-__future__) import [annotations]()
 
 * from [abc](https://docs.python.org/3.13/library/collections.abc.html) import [ABC](https://docs.python.org/3/library/abc.html?highlight=abc#abc.ABC), [abstractmethod](https://docs.python.org/3/library/abc.html?highlight=abstractmethod#abc.abstractmethod)
 
