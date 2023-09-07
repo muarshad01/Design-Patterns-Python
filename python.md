@@ -19,7 +19,7 @@
 * from string import ascii_letters, digits
 * import json
 * import copy
-* from threading import Lock, Thread
+* from [threading](https://docs.python.org/3/library/threading.html?highlight=threading#module-threading) import Lock, Thread
 
 ***
 
