@@ -19,4 +19,4 @@
 
 ## Underscore (_)
 
-The underscore prefix is meant as a hint to another programmer that a variable or method starting with a single underscore is intended for internal use.
+The underscore prefix is meant as a hint to another programmer that a `variable or method starting with a single underscore is intended for internal use`.
