@@ -66,6 +66,7 @@
 ```
 $ C:\Users\<user-name>\python3 --version
 ```
+* The above command returns nothing.
 
 ```
 $ C:\Users\<user-name>\where python3
