@@ -59,6 +59,11 @@
 * [Visitor](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Visitor)
 
 ***
+# How to Install Python on Windows 11
+
+* [How to Install Python 3 on Windows](https://www.youtube.com/watch?v=0DQsjE8vMpc)
+
+***
 
 # How to Install Python on MacOS
 
