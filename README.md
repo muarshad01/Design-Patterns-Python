@@ -63,6 +63,17 @@
 
 * [How to Install Python 3 on Windows](https://www.youtube.com/watch?v=0DQsjE8vMpc)
 
+```
+$ C:\Users\<user-name>\python3 --version
+```
+
+```
+$ C:\Users\<user-name>\where python3
+```
+
+* This will show the following path: `C:\Users\<user-name>\AppData\LocalMicrosoft\WindowsApps\python3.exe`
+
+
 ***
 
 # How to Install Python on MacOS
