@@ -72,7 +72,7 @@ $ C:\Users\<user-name>\python3 --version
 $ C:\Users\<user-name>\where python3
 ```
 
-* This will show the following path: `C:\Users\<user-name>\AppData\LocalMicrosoft\WindowsApps\python3.exe`
+* The above commands shows python executable path at: `C:\Users\<user-name>\AppData\LocalMicrosoft\WindowsApps\python3.exe`
 
 
 ***
