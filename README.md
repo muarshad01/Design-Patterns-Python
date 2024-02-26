@@ -1,6 +1,7 @@
 # Design Patterns
 
-[Python Design Patterns](https://refactoring.guru/design-patterns/python)
+* [Python Design Patterns](https://refactoring.guru/design-patterns/python)
+* [Python Design Patterns by]
 
 ***
 
