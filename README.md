@@ -136,11 +136,29 @@ $ pyreverse -o png <path_to_src>
 * [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 
 ***
+<<<<<<< HEAD
 ## Format code
 
 ```
 $ pip install black
 $ balck <file-name>.py
+=======
+
+## Python Code Formatting
+* `ctrl-s`
+* Extensions -> search `black` -> `Black Formatter (Microsoft)`
+* Extensions -> search `isort` -> `isort (Microsoft)`
+
+```
+$ brew install pipenv
+$ pipenv install black --pre
+$ pipenv run python <file-name>.py
+```
+
+```
+$ pip install black
+$ black {source_file_or_directory}
+>>>>>>> 1d68822 (update)
 ```
 
 ***
