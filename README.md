@@ -1,7 +1,7 @@
 # Design Patterns
 
 * [Python Design Patterns](https://refactoring.guru/design-patterns/python)
-* [Python Design Patterns by]
+* [Python Design Patterns by Brandon Rhodes](https://python-patterns.guide/)
 
 ***
 
