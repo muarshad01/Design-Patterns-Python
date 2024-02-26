@@ -141,7 +141,10 @@ $ pyreverse -o png <path_to_src>
 
 ```
 $ pip install black
-$ black {source_file_or_directory}
+$ black  {source_file_or_directory}
+
+$pip install pylint
+$ pylint {source_file}
 ```
 
 * Extensions -> search `black` -> `Black Formatter (Microsoft)`
