@@ -136,3 +136,11 @@ $ pyreverse -o png <path_to_src>
 * [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 
 ***
+## Format code
+
+```
+$ pip install black
+$ balck <file-name>.py
+```
+
+***
