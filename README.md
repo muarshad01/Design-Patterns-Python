@@ -21,7 +21,7 @@
 
 ## Structural Design Patterns (ABCD-F2-P)
 
-* [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter)
+* [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter) -- Feb 27, 2024
 
 * [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge)
 
