@@ -8,7 +8,9 @@ class SelfReferencingEntity:
     def set_parent(self, parent):
         self.parent = parent
 
+
 # ------------------------------------------------------------------
+
 
 class SomeComponent:
     """
@@ -36,15 +38,12 @@ class SomeComponent:
 
         # Then, let's clone the object itself, using the prepared clones of the
         # nested objects.
-        new = self.__class__(
-            self.some_int, some_list_of_objects, some_circular_ref
-        )
+        new = self.__class__(self.some_int, some_list_of_objects, some_circular_ref)
         new.__dict__.update(self.__dict__)
 
         return new
 
     def __deepcopy__(self, memo=None):
-
         if memo is None:
             memo = {}
 
@@ -54,17 +53,15 @@ class SomeComponent:
 
         # Then, let's clone the object itself, using the prepared clones of the
         # nested objects.
-        new = self.__class__(
-            self.some_int, some_list_of_objects, some_circular_ref
-        )
+        new = self.__class__(self.some_int, some_list_of_objects, some_circular_ref)
         new.__dict__ = copy.deepcopy(self.__dict__, memo)
 
         return new
 
+
 # ------------------------------------------------------------------
 
 if __name__ == "__main__":
-
     list_of_objects = [1, {1, 2, 3}, [1, 2, 3]]
     circular_ref = SelfReferencingEntity()
     component = SomeComponent(23, list_of_objects, circular_ref)
