@@ -1,10 +1,10 @@
 class SingletonMeta(type):
     """
     The Singleton class can be implemented in different ways in Python. Some
-    possible methods include: 
-    -- base class, 
-    -- decorator, 
-    -- metaclass. 
+    possible methods include:
+    -- base class,
+    -- decorator,
+    -- metaclass.
     We will use the metaclass because it is best suited for this purpose.
     """
 
@@ -24,7 +24,7 @@ class SingletonMeta(type):
 class Singleton(metaclass=SingletonMeta):
     def some_business_logic(self):
         """
-        Finally, any singleton should define some business logic, 
+        Finally, any singleton should define some business logic,
         which can be executed on its instance.
         """
 
@@ -32,7 +32,6 @@ class Singleton(metaclass=SingletonMeta):
 
 
 if __name__ == "__main__":
-    
     s1 = Singleton()
     s2 = Singleton()
 
