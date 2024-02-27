@@ -30,6 +30,7 @@ class ConcreteFactory2(AbstractFactory):
     def create_product_b(self) -> AbstractProductB:
         return ConcreteProductB2()
 
+
 # --------------------------------------------------------------------
 
 
@@ -49,6 +50,7 @@ class ConcreteProductA2(AbstractProductA):
     def useful_function_a(self) -> str:
         return "The result of the product A2."
 
+
 # --------------------------------------------------------------------
 
 
@@ -64,7 +66,6 @@ class AbstractProductB(ABC):
 
 
 class ConcreteProductB1(AbstractProductB):
-
     def useful_function_b(self) -> str:
         return "The result of the product B1."
 
@@ -81,6 +82,7 @@ class ConcreteProductB2(AbstractProductB):
         result = collaborator.useful_function_a()
         return f"The result of the B2 collaborating with the ({result})"
 
+
 # --------------------------------------------------------------------
 
 
@@ -89,7 +91,8 @@ def client_code(factory: AbstractFactory) -> None:
     product_b = factory.create_product_b()
 
     print(f"{product_b.useful_function_b()}")
-    print(f"{product_b.another_useful_function_b(product_a)}", end="")
+    print(f"{product_b.another_useful_function_b(product_a)}")
+
 
 # --------------------------------------------------------------------
 
@@ -97,7 +100,7 @@ if __name__ == "__main__":
     print("Client: Testing client code with the first factory type:")
     client_code(ConcreteFactory1())
 
-    print("\n")
+    print("\n---------\n")
 
     print("Client: Testing the same client code with the second factory type:")
     client_code(ConcreteFactory2())
