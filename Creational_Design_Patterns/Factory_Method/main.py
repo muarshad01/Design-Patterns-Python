@@ -3,7 +3,6 @@ from abc import ABC, abstractmethod
 
 
 class Creator(ABC):
-
     @abstractmethod
     def factory_method(self):
         pass
@@ -29,7 +28,6 @@ class ConcreteCreator2(Creator):
 
 
 class Product(ABC):
-
     @abstractmethod
     def operation(self) -> str:
         pass
@@ -49,7 +47,6 @@ class ConcreteProduct2(Product):
 
 
 def client_code(creator: Creator) -> None:
-
     print(
         f"Client: I'm not aware of the creator's class, but it still works.\n"
         f"{creator.some_operation()}",
