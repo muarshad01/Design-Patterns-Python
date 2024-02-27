@@ -26,10 +26,11 @@ class Builder(ABC):
     def produce_part_c(self) -> None:
         pass
 
+
 # ------------------------------------------------------------------------
 
+
 class ConcreteBuilder1(Builder):
-    
     def __init__(self) -> None:
         """
         A fresh builder instance should contain a blank product object, which is
@@ -69,10 +70,11 @@ class ConcreteBuilder1(Builder):
     def produce_part_c(self) -> None:
         self._product.add("PartC1")
 
+
 # ------------------------------------------------------------------------
 
-class Product1():
-    
+
+class Product1:
     def __init__(self) -> None:
         self.parts = []
 
@@ -82,7 +84,9 @@ class Product1():
     def list_parts(self) -> None:
         print(f"Product parts: {', '.join(self.parts)}", end="")
 
+
 # ------------------------------------------------------------------------
+
 
 class Director:
     """
@@ -120,6 +124,7 @@ class Director:
         self.builder.produce_part_a()
         self.builder.produce_part_b()
         self.builder.produce_part_c()
+
 
 # ------------------------------------------------------------------------
 
