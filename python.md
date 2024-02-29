@@ -37,5 +37,6 @@ The underscore prefix is meant as a hint to another programmer that a `variable 
 * decorator,
 * metaclass.
 * `*args`, `**kwargs`
-
+* `super()`
+* from typing import Any, Optional
 ***
