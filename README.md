@@ -53,7 +53,7 @@
 
 * [Strategy](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Strategy)
 
-* [State](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/State)
+* [State](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/State) -- Feb 29, 2024
 
 * [Template](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Template)
 
