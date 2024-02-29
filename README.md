@@ -43,7 +43,7 @@
 
 * [Command](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/command)
 
-* [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
+* [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator) -- Feb 29, 2024
 
 * [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento) -- Feb 29, 2024
 
