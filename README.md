@@ -39,7 +39,7 @@
 
 ## Behavioral Design Patterns (C2-I-M2-O-S2-TV)
 
-* [Chain of Responsibility](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/ChainOfResponsibility)
+* [Chain of Responsibility](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/ChainOfResponsibility) -- Feb 29, 2024
 
 * [Command](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/command)
 
