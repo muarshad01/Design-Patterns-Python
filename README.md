@@ -45,7 +45,7 @@
 
 * [Iterator](https://github.com/muarshad01/Python-Design-Patterns/tree/main/Behavioral_Design_Patterns/Iterator)
 
-* [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento)
+* [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento) -- Feb 29, 2024
 
 * [Mediator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Mediator)
 
