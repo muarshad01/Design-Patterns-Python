@@ -15,6 +15,7 @@
 * from [collections.abc](https://docs.python.org/3.13/library/collections.abc.html) import [Iterable](https://docs.python.org/3/library/collections.abc.html?highlight=iterable#collections.abc.Iterable), [Iterator](https://docs.python.org/3/library/collections.abc.html?highlight=iterator#collections.abc.Iterator)
 
 * from datetime import datetime
+* from typing import Any, Optional
 * from random import sample
 * from string import ascii_letters, digits
 * import json
@@ -38,5 +39,4 @@ The underscore prefix is meant as a hint to another programmer that a `variable 
 * metaclass.
 * `*args`, `**kwargs`
 * `super()`
-* from typing import Any, Optional
 ***
