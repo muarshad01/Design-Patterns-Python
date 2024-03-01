@@ -25,7 +25,7 @@
 
 * [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge)
 
-* [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite)
+* [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite) -- March 01, 2024
 
 * [Decorator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Decorator)
 
