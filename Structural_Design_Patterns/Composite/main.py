@@ -154,5 +154,7 @@ if __name__ == "__main__":
     client_code(tree)
     print("\n")
 
-    print("Client: I don't need to check the components classes even when managing the tree:")
+    print(
+        "Client: I don't need to check the components classes even when managing the tree:"
+    )
     client_code2(tree, simple)
