@@ -57,7 +57,7 @@
 
 * [Template](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Template) -- Feb 29, 2024
 
-* [Visitor](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Visitor)
+* [Visitor](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Visitor) -- March 01, 2024
 
 ***
 # How to Install Python on Windows 11
