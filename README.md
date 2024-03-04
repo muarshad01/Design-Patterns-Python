@@ -47,7 +47,7 @@
 
 * [Memento](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Memento) -- Feb 29, 2024
 
-* [Mediator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Mediator)
+* [Mediator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Mediator) -- March 03, 2024
 
 * [Observer](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Observer) -- March 01, 2024
 
