@@ -31,11 +31,8 @@ The underscore prefix is meant as a hint to another programmer that a `variable 
 
 * @property
 * @abstractmethod
-* `Any`
-* @builder.setter
-
-* decorator,
 * metaclass.
-* `*args`, `**kwargs`
+* @builder.setter
+* [`*args` and `**kwargs`](https://www.geeksforgeeks.org/args-kwargs-python/)
 * `super()`
 ***
