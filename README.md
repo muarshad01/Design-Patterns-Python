@@ -51,7 +51,7 @@
 
 * [Observer](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Observer) -- March 01, 2024
 
-* [Strategy](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Strategy)
+* [Strategy](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/Strategy) -- March 03, 2024
 
 * [State](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Behavioral_Design_Patterns/State) -- Feb 29, 2024
 
