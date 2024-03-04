@@ -27,7 +27,7 @@
 
 * [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite) -- March 01, 2024
 
-* [Decorator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Decorator)
+* [Decorator](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Decorator) -- March 03, 2024
 
 * [Facade](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Facade) -- March 01, 2024
 
