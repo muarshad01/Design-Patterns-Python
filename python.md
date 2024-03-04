@@ -15,7 +15,6 @@
 * from [collections.abc](https://docs.python.org/3.13/library/collections.abc.html) import [Iterable](https://docs.python.org/3/library/collections.abc.html?highlight=iterable#collections.abc.Iterable), [Iterator](https://docs.python.org/3/library/collections.abc.html?highlight=iterator#collections.abc.Iterator)
 
 * from datetime import datetime
-* from typing import Any, Optional
 * from random import sample
 * from string import ascii_letters, digits
 * import json
