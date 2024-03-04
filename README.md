@@ -23,7 +23,7 @@
 
 * [Adapter](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Adapter) -- Feb 27, 2024
 
-* [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge)
+* [Bridge](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Bridge) -- March 03, 2024
 
 * [Composite](https://github.com/muarshad01/Python-Design-Patterns/blob/main/Structural_Design_Patterns/Composite) -- March 01, 2024
 
